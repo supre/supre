@@ -12,8 +12,6 @@ Right now I'm building **[MemSpren](https://memspren.netlify.app)** — a person
 
 **[MemSpren](https://github.com/supre/memspren)** — An AI-driven Zettelkasten personal knowledge management system. Manages execution context, surfaces patterns, and helps translate long-term vision into consistent daily action. Built on Claude + OpenClaw. Every entity is a node. Every connection is a link.
 
-**supreet.me** *(launching end of March 2026)* — A living feed of everything I ship. One URL that grows every week.
-
 ---
 
 ## 📝 Writing
